@@ -6,7 +6,7 @@ namespace c__tranning_helloword
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("Hello Phong!");
         }
     }
 }
