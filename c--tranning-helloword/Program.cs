@@ -6,8 +6,8 @@ namespace c__tranning_helloword
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello mình là kỷ!");
-            Console.ReadLine();
+            Console.WriteLine("Hello Worldmình là kỷ");
+            
         }
     }
 }
